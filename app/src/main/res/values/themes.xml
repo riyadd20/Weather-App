@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.WeatherApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+    <item name="colorPrimaryDark">#000000</item>
+    <item name="android:statusBarColor">#000000</item>
+    </style>
+    <style name="Theme.SplashScreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Remove these lines if they exist -->
+        <item name="android:windowSplashScreenBackground">@color/black</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/weather_partly_snowy_rainy</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/splash_powered_tio</item>
+
+    </style>
+
+
+
+
+</resources>
